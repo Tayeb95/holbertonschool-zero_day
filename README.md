@@ -1,2 +1,2 @@
-**This file is mandatory in all Holberton School projects**
+_**This file is mandatory in all Holberton School projects**_
 
