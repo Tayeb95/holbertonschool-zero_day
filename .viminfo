@@ -9,9 +9,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
+:q
 :w!
 :w
-:q
 :wi
 
 # Search String History (newest to oldest):
@@ -29,16 +29,19 @@
 	e
 
 # File marks:
-'0  1  1  ~/0x02-vi/README.md
-'1  1  0  ~/0x02-vi/paste
-'2  1  0  ~/0x02-vi/move
-'3  1  0  ~/0x02-vi/undo
-'4  1  1  ~/0x02-vi/current
-'5  1  9  ~/0x02-vi/exiting
-'6  1  10  ~/0x02-vi/edit
-'7  2  13  ~/0x02-vi/edit
+'0  2  15  ~/holberton-system_engineering-devops/0x00-shell_basics/holberton
+'1  1  1  ~/0x02-vi/README.md
+'2  1  0  ~/0x02-vi/paste
+'3  1  0  ~/0x02-vi/move
+'4  1  0  ~/0x02-vi/undo
+'5  1  1  ~/0x02-vi/current
+'6  1  9  ~/0x02-vi/exiting
+'7  1  10  ~/0x02-vi/edit
+'8  2  13  ~/0x02-vi/edit
 
 # Jumplist (newest first):
+-'  2  15  ~/holberton-system_engineering-devops/0x00-shell_basics/holberton
+-'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/holberton
 -'  1  1  ~/0x02-vi/README.md
 -'  1  0  ~/0x02-vi/paste
 -'  1  0  ~/0x02-vi/move
@@ -136,9 +139,15 @@
 -'  2  13  ~/0x02-vi/edit
 -'  1  0  ~/0x02-vi/move
 -'  1  0  ~/0x02-vi/undo
--'  1  1  ~/0x02-vi/current
 
 # History of marks within files (newest to oldest):
+
+> ~/holberton-system_engineering-devops/0x00-shell_basics/holberton
+	"	2	15
+	^	2	16
+	.	2	16
+	+	1	31
+	+	2	16
 
 > ~/0x02-vi/README.md
 	"	1	1
